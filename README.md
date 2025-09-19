@@ -7,8 +7,8 @@
   - [Microsoft Azure VMs - Method for developing a working VM](https://github.com/jarineslugo1/configure-ad)
 
 - <b>Windows Admin Scripts</b>
-  - [Scripts that display computer informaion](https://github.com/jarineslugo1/configure-ad)
-<h2>🤳Connect with me:</h2>
+  - [Scripts that display computer informaion](https://github.com/jarineslugo1/Computer-Info-Scrip)
+  - <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Jarines-lugo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
