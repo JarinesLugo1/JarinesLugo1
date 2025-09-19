@@ -5,8 +5,10 @@
 
 - <b>Microsoft Azure</b>
   - [Microsoft Azure VMs - Method for developing a working VM](https://github.com/jarineslugo1/configure-ad)
-  
 
+- <b>Windows Admin Scripts</b>
+ - [Scripts that display computer information](https://github.com/jarineslugo1/configure-ad)
+ - 
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Jarines-lugo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
