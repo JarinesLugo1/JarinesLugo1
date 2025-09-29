@@ -4,7 +4,7 @@
 
 
 - <b>Microsoft Azure</b>
-  - [Microsoft Azure VMs - Method for developing a working VM](https://github.com/jarineslugo1/configure-ad)
+  - [Microsoft Azure VMs - Method for developing a working VM](https://github.com/jarineslugo1/Azure-VM-setup
 
 - <b>Windows Admin Scripts</b>
   - [Scripts that display computer informaion](https://github.com/JarinesLugo1/Computer-Info-Script)
